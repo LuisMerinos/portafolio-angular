@@ -13,6 +13,7 @@ import { ItemComponent } from './pages/item/item.component';
 import {HttpClientModule} from '@angular/common/http'
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,6 +22,7 @@ import {HttpClientModule} from '@angular/common/http'
     PortafolioComponent,
     AboutComponent,
     ItemComponent
+
   ],
   imports: [
     BrowserModule,
